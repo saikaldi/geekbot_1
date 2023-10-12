@@ -1,3 +1,5 @@
 venv
 .idea
-__pycash__/
+__pycashe__/
+
+db.sqlite3
